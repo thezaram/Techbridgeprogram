@@ -1,0 +1,16 @@
+.parent{
+    width: 500px;
+height: 500px;
+background-color: rgb( 31, 28, 16);
+box-shadow: 0 0 0 gray;
+margin: auto;
+}
+
+.child{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 24px;
+    box-sizing: border-box;
+}
+  
